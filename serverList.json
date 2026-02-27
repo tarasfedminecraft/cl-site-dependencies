@@ -18,6 +18,24 @@
       "partner": true,
       "version": "1.21.7"
     },
+    "nik4": {
+      "bgUrl": "https://github.com/WER-CORE/CL-Win-Edition--Update/blob/main/ServerBG/TerraBladeBG.gif?raw=true",
+      "description": "Вічний сервер Vanilla+ - Створюй ідеальну ванілу з нами! Рай для будівельників!",
+      "discord": "https://discord.com/invite/SPcnyjhTfM",
+      "donatelink": "https://send.monobank.ua/jar/8paCy6Qn1H",
+      "sitelink": "-",
+      "ip": "terrablade.space",
+      "logoUrl": "https://github.com/WER-CORE/CL-Win-Edition--Update/blob/main/ServerIcon/TerraBlade.png?raw=true",
+      "name": "Terra Blade",
+      "priority": 100,
+      "partner": true,
+      "borderColor": "#8000FF",
+      "textColor": "#ffffff",
+      "neonEffect": true,
+      "port": 25571,
+      "type": "Ванільний, РП",
+      "version": "1.21.10"
+    },
     "nik2": {
       "bgUrl": "https://github.com/WER-CORE/CL-Win-Edition--Update/blob/main/ServerBG/image_2025-12-29_01-34-41%20-%20Lemuria%20Project.png?raw=true",
       "description": "Origin — це справжня ваніль, унікальна кастомна генерація, випадковий спавн та доступ до всіх вимірів з першої секунди. Грай з будь-якого пристрою (Java & Bedrock) з єдиним акаунтом, спілкуйся через голосовий чат та насолоджуйся стабільною грою без обмежень.",
@@ -31,7 +49,7 @@
       "borderColor": "#F09c00",
       "textColor": "#ffffff",
       "neonEffect": true,
-      "partner": true,
+      "partner": false,
       "port": 25590,
       "type": "Ванілла,виживання, івенти, без гріфу, без привату.",
       "version": "1.21.8"
@@ -53,20 +71,6 @@
   "type": "Ваніла+, Модовий сервер, Містобудування та Креатив",
   "partner": false,
   "version": "1.21.6"
-    },
-    "nik4": {
-      "bgUrl": "https://github.com/WER-CORE/CL-Win-Edition--Update/blob/main/ServerBG/TerraBladeBG.gif?raw=true",
-      "description": "Вічний сервер Vanilla+ - Створюй ідеальну ванілу з нами! Рай для будівельників!",
-      "discord": "https://discord.com/invite/SPcnyjhTfM",
-      "donatelink": "https://send.monobank.ua/jar/8paCy6Qn1H",
-      "sitelink": "-",
-      "ip": "terrablade.space",
-      "logoUrl": "https://github.com/WER-CORE/CL-Win-Edition--Update/blob/main/ServerIcon/TerraBlade.png?raw=true",
-      "name": "Terra Blade",
-      "priority": 100,
-      "port": 25571,
-      "type": "Ванільний, РП",
-      "version": "1.21.10"
     },
     "nik5": {
       "bgUrl": "https://github.com/WER-CORE/CL-Win-Edition--Update/blob/main/ServerBG/newtale_2560x600%20-%20Retside.png?raw=true",
@@ -113,4 +117,3 @@
     }
   }
 }
-
