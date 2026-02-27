@@ -60,10 +60,10 @@
       "discord": "https://discord.com/invite/SPcnyjhTfM",
       "donatelink": "https://send.monobank.ua/jar/8paCy6Qn1H",
       "sitelink": "-",
-      "ip": "157.90.35.116",
+      "ip": "terrablade.space",
       "logoUrl": "https://github.com/WER-CORE/CL-Win-Edition--Update/blob/main/ServerIcon/TerraBlade.png?raw=true",
       "name": "Terra Blade",
-      "priority": 0,
+      "priority": 100,
       "port": 25571,
       "type": "Ванільний, РП",
       "version": "1.21.10"
@@ -113,3 +113,4 @@
     }
   }
 }
+
