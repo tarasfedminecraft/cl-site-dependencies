@@ -49,7 +49,7 @@
       "borderColor": "#F09c00",
       "textColor": "#ffffff",
       "neonEffect": true,
-      "partner": false,
+      "partner": true,
       "port": 25590,
       "type": "Ванілла,виживання, івенти, без гріфу, без привату.",
       "version": "1.21.8"
@@ -117,3 +117,4 @@
     }
   }
 }
+
